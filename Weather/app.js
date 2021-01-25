@@ -9,7 +9,7 @@ let d = new Date();
 let newDate = d.getMonth() + 1 + '/' + d.getDate() + '/' + d.getFullYear();
 
 // Personal API Key for OpenWeatherMap API
-const key = '303c83a51e0001c3b44e42cefb0f0b62';
+const key = '[USE_YOUR_API_KEY]';
 
 //------------------------------------------------------------------//
 //check the server for latest values of the page
